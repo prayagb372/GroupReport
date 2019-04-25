@@ -1,0 +1,4 @@
+Product	Number Sold	Total (in $)
+Product 1	846	1015400
+Product 2	136	489600
+Product 3	14	105000
